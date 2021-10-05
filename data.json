@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "RTX 3080",
+      "price": 800,
+      "description": "NVIDIA GeForce RTX 3080 10GB GDDR6X",
+      "category": "electronics",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2020/06/NVIDIA-RTX-3080-3D-Render-4-1480x833.png",
+      "rating": {
+        "rate": 4.4,
+        "count": 0
+      }
+    },
+    {
+      "id": 2,
+      "name": "RTX 3070",
+      "price": 695,
+      "description": "EVGA GeForce RTX 3070 XC3 Gaming",
+      "category": "electronics",
+      "image": "https://images.evga.com/products/gallery/png/08G-P5-3751-KR_XL_3.png",
+      "rating": {
+        "rate": 4.0,
+        "count": 0
+      }
+    },
+    {
+      "id": 3,
+      "name": "RTX 3060TI",
+      "price": 109,
+      "description": "ASUS RTX 3060TI 8GB GRDDR6 ",
+      "category": "electronics",
+      "image": "https://dlcdnwebimgs.asus.com/gain/6cd32e69-b323-4f7b-8204-ca6bb2db7cab/",
+      "rating": {
+        "rat": 3.7,
+        "count": 319
+      }
+    },
+    {
+      "id": 4,
+      "name": "GT 720",
+      "price": 500,
+      "description": "GT 720 low end Graphics card",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.0,
+        "count": 10
+      }
+    },
+    {
+      "id": 5,
+      "name": "Goodnight Pun Pun",
+      "price": 10.99,
+      "description": "Goodnight Pun Pun volume 1",
+      "category": "book",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 1
+      }
+    }
+  ]

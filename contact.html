@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styles2.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src=app.js> </script>
+</head>
+<body>  
+      <div class="header">
+        <div class="container">
+    <div class="navbar">
+        <nav>
+            <ul>
+                <li><a href="index.html"> Home</a></li>
+                <li><a href=""> Products</a></li>
+                <li><a href=""> About</a></li>
+                <li><a href="contact.html"> Contact</a></li>
+                <li><a href=""> Account</a></li>
+                <li><a href=""><img src="imgs/cart.png"> </a> </li>
+            </ul>
+        </nav>
+    </div>
+
+    <div class="wrapper">
+    <h2> Contact US</h2>
+    <div id="error_message"></div>
+    <form id ="myform" onsubmit="return validation()">
+        <div class="input_field">
+            <input type="text" placeholder="name" id="name">
+        </div>
+        <div class="input_field">
+            <input type="text" placeholder="subject" id="subject">
+        </div>
+        <div class="input_field">
+            <input type="text" placeholder="phone" id="phone">
+        </div>
+        <div class="input_field">
+            <input type="text" placeholder="email" id="email">
+        </div>
+        <div class="input_field">
+           <textarea id="message" placeholder="message"> </textarea>
+        </div>
+        <div class="btn">
+            <input type="submit">
+        </div>
+    </form>
+</div>
+</div>
+    </div>
+
+</body>
+</html>
